@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<header>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title> Portfolio for Chelsea Reese </title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+</header>
+
+<body>
+    <h1>Work</h1>
+    <img class="filler-image" src="./assets/images/camera.jpg" alt="filler" />
+    <img class="filler-image" src="./assets/images/camera.jpg" alt="filler" />
+    <img class="filler-image" src="./assets/images/camera.jpg" alt="filler" />
+    <h2>About Me</h2>
+    <p> I am 21 years old and work full time in customer service. I have been working customer
+        service positions since I graduated high school and while it is something I appreciate
+        having been trained in, I am ready for the next step in my life.
+    </p>
+    <footer>
+        <h3>Contact Me</h3>
+        <ul>
+            <li>Phone: 801-505-8647</li>
+            <li>Email: chelsea.reese@icloud.com</li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/chelsea-reese-58805a20b/">Chelsea Reese</a> </li>
+        </ul>
+    </footer>
+</body>
+</html>
