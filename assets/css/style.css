@@ -12,8 +12,6 @@ body {
 
 /* CHANGE THIS TO BODY TURNED OFF DISPLAY */
 body h1 {
-    border-radius: 10px;
-    border-color: red;
     /* display: inline-block; */
     flex-wrap: wrap;
     text-align: center;
@@ -151,9 +149,3 @@ footer a {
     border-radius: 10px solid red;
     background-color: #fff;
     box-shadow: 0px 00px 30px 10px red;}
-
-#id {
-    outline-style: solid ;
-    outline-width: 10px;
-    border-color: red;
-}
