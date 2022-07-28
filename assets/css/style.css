@@ -125,7 +125,7 @@ footer a {
 
 .filler-image {
     flex-wrap: wrap;
-    margin: 20px;
+    margin: 40px;
     height: 250px;
     width: 200px;
 }
@@ -152,8 +152,8 @@ footer a {
     background-color: #fff;
     box-shadow: 0px 00px 30px 10px red;}
 
-/* #id {
-    border-right: 10px;
+#id {
+    outline-style: solid ;
+    outline-width: 10px;
     border-color: red;
-    border-style: solid;
-} */
+}
