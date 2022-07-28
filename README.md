@@ -4,4 +4,4 @@ This page will show you the start of my portfolio. I do not have applications th
 
 <img src= "./assets/images/Screen Shot 2022-07-26 at 6.36.26 PM.png" >
 
-<!-- Need help with link -->
+https://chelsbo.github.io/Module-2-Challenge/
