@@ -106,34 +106,35 @@ footer a {
 }
 
 #filler-image {
+    float: right;
     flex-wrap: wrap;
     margin: 30px;
-    height: 800px;
-    width: 1350px;
+    height: 400px;
+    width: 800px;
 }
 
 #filler-image:hover {
     flex-wrap: wrap;
-    height: 900px;
-    width: 1400px;
+    height: 450px;
+    width: 850px;
     border-radius: 10px solid red;
     background-color: #fff;
     box-shadow: 0px 00px 30px 10px red;
 }
 
 .filler-image {
+    float: right;
     flex-wrap: wrap;
     margin: 20px;
-    height: 450px;
-    width: 400px;
+    height: 250px;
+    width: 200px;
 }
 
 .filler-image:hover {
     flex-wrap: wrap;
     margin: 30px;
-    height: 500px;
-    width: 450px;
-    align-content: flex-end;
+    height: 300px;
+    width: 250px;
     border-radius: 10px solid red;
     background-color: #fff;
     box-shadow: 0px 00px 30px 10px red;
