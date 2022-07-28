@@ -109,13 +109,13 @@ footer a {
     flex-wrap: wrap;
     margin: 30px;
     height: 800px;
-    width: 600px;
+    width: 1350px;
 }
 
 #filler-image:hover {
     flex-wrap: wrap;
     height: 900px;
-    width: 650px;
+    width: 1400px;
     border-radius: 10px solid red;
     background-color: #fff;
     box-shadow: 0px 00px 30px 10px red;
@@ -123,7 +123,7 @@ footer a {
 
 .filler-image {
     flex-wrap: wrap;
-    margin: 30px;
+    margin: 20px;
     height: 450px;
     width: 400px;
 }
